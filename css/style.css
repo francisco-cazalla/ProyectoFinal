@@ -438,6 +438,7 @@ background-color: #000;
     transition: 0,5s;
     box-shadow: #000;
     color: white;
+    transition: 1s;
 }
 
 .portada:hover{
